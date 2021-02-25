@@ -1,5 +1,0 @@
-row number 1
-row number 2
-test message
-
-row 3
