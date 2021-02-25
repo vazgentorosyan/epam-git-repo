@@ -1,4 +1,8 @@
 #Epam git demo
 # epam-git-repo
 
-new guide for nre version
+n
+some chnges
+
+
+ew guide for nre version
